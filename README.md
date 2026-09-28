@@ -23,3 +23,9 @@ Two modules can access memory concurrently, which improves **system performance 
 
 🔹 **Key Advantage**  
 DPRAM enables **concurrent read and write operations on the same memory array**, making it ideal for systems where **multiple modules or clock domains need to share data efficiently**.
+
+
+<img width="529" height="144" alt="image" src="https://github.com/user-attachments/assets/1839ce62-9827-46bf-bf9d-7ffa04ff8273" />
+
+<img width="959" height="281" alt="image" src="https://github.com/user-attachments/assets/ff6a70a9-07fb-43eb-a2b4-b7d2aab642f8" />
+
